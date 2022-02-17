@@ -1,4 +1,4 @@
-# Xiaoai-Schedule-For-New-QingGuo-System
+# Schedule-CHZC
 滁州职业技术学院 小爱课程表 适配新青果教务系统
 
 [![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%80%85-抱米花-brightgreen)](https://www.qg6.top)
